@@ -1,0 +1,14 @@
+﻿  main.cpp
+C:\Users\Nzettodess\OneDrive - Universiti Teknikal Malaysia Melaka\Documents\GELabTest2\GELabTest2\OBJ_Loader.h(652,25): warning C4018: '<': signed/unsigned mismatch
+  (compiling source file 'main.cpp')
+  
+C:\Users\Nzettodess\OneDrive - Universiti Teknikal Malaysia Melaka\Documents\GELabTest2\GELabTest2\OBJ_Loader.h(689,22): warning C4018: '<': signed/unsigned mismatch
+  (compiling source file 'main.cpp')
+  
+C:\Users\Nzettodess\OneDrive - Universiti Teknikal Malaysia Melaka\Documents\GELabTest2\GELabTest2\OBJ_Loader.h(695,23): warning C4018: '<': signed/unsigned mismatch
+  (compiling source file 'main.cpp')
+  
+C:\Users\Nzettodess\OneDrive - Universiti Teknikal Malaysia Melaka\Documents\GELabTest2\GELabTest2\main.cpp(341,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Nzettodess\OneDrive - Universiti Teknikal Malaysia Melaka\Documents\GELabTest2\GELabTest2\main.cpp(354,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Nzettodess\OneDrive - Universiti Teknikal Malaysia Melaka\Documents\GELabTest2\GELabTest2\main.cpp(367,22): warning C4018: '<': signed/unsigned mismatch
+  GELabTest2.vcxproj -> C:\Users\Nzettodess\OneDrive - Universiti Teknikal Malaysia Melaka\Documents\GELabTest2\Debug\GELabTest2.exe
